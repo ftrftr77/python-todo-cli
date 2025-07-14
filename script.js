@@ -1,1 +1,1 @@
-let images=[]; let index=0;
+let board=[];
