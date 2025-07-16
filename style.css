@@ -1,1 +1,1 @@
-button { transition: 0.3s; } button:hover { transform: scale(1.2); }
+#board { display:grid; grid-template-columns: 3fr; }
