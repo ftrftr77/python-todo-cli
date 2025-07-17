@@ -1,1 +1,1 @@
-print("Weather Parser")
+print("Mini Notes App")
