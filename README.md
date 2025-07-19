@@ -1,1 +1,1 @@
-# Git Auto Commit
+# Mini Notes App
