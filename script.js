@@ -1,1 +1,1 @@
-document.getElementById("btn").onclick = function(){document.body.style.backgroundColor="red";}
+let quotes=["Hello","World"]; document.getElementById("quoteBtn").onclick=function(){alert(quotes[Math.floor(Math.random()*quotes.length)])}
