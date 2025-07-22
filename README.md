@@ -1,1 +1,1 @@
-# Mini Notes App
+# Random Quote Generator
