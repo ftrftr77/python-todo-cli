@@ -1,1 +1,1 @@
-let quotes=["Hello","World"]; document.getElementById("quoteBtn").onclick=function(){alert(quotes[Math.floor(Math.random()*quotes.length)])}
+document.getElementById("startBtn").onclick=function(){console.log("Timer started")}
