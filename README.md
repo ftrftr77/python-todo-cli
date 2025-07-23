@@ -1,1 +1,1 @@
-# Random Quote Generator
+# Mini Timer
